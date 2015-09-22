@@ -1,0 +1,26 @@
+{
+  "name": "gulp-for-beginner",
+  "version": "1.0.0",
+  "description": "Basic Gulp tutorials in Bangla for newbies.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafpro/gulp-for-newbie.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-tutorial-bangla",
+    "gulp-basic"
+  ],
+  "author": "MD. Rafiqul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafpro/gulp-for-newbie/issues"
+  },
+  "homepage": "https://github.com/rafpro/gulp-for-newbie",
+  "devDependencies": {
+  }
+}
